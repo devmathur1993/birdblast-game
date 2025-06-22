@@ -4,6 +4,10 @@ To run the project.
 2. npm run assets
 3. npm run dev
 
+#Game Shots
+![alt text](https://github.com/devmathur1993/birdblast-game/blob/main/public/images/screen1.png)
+![alt text](https://github.com/devmathur1993/birdblast-game/blob/main/public/images/screen2.png)
+![alt text](https://github.com/devmathur1993/birdblast-game/blob/main/public/images/screen3.png)
 
 
 

@@ -1,0 +1,133 @@
+{
+  "bundles": [
+    {
+      "name": "default",
+      "assets": [
+        {
+          "alias": [
+            "audio/blast.wav",
+            "blast.wav"
+          ],
+          "src": [
+            "audio/blast.ogg",
+            "audio/blast.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/crow_caw.wav",
+            "crow_caw.wav"
+          ],
+          "src": [
+            "audio/crow_caw.ogg",
+            "audio/crow_caw.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "audio/music.mp3",
+            "music.mp3"
+          ],
+          "src": [
+            "audio/music.ogg",
+            "audio/music.mp3"
+          ],
+          "data": {
+            "tags": {}
+          }
+        },
+        {
+          "alias": [
+            "fonts/LuckiestGuy-Regular.ttf",
+            "LuckiestGuy-Regular.ttf"
+          ],
+          "src": [
+            "fonts/LuckiestGuy-Regular.woff2"
+          ],
+          "data": {
+            "tags": {
+              "wf": true,
+              "family": "LuckiestGuy-Regular"
+            },
+            "family": "LuckiestGuy-Regular"
+          }
+        }
+      ]
+    },
+    {
+      "name": "background",
+      "assets": [
+        {
+          "alias": [
+            "images/background",
+            "background"
+          ],
+          "src": [
+            "images/background@0.5x.webp.json",
+            "images/background@0.5x.png.json",
+            "images/background.webp.json",
+            "images/background.png.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "preload",
+      "assets": [
+        {
+          "alias": [
+            "images/preload",
+            "preload"
+          ],
+          "src": [
+            "images/preload@0.5x.webp.json",
+            "images/preload@0.5x.png.json",
+            "images/preload.webp.json",
+            "images/preload.png.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "screen",
+      "assets": [
+        {
+          "alias": [
+            "images/screen",
+            "screen"
+          ],
+          "src": [
+            "images/screen-0@0.5x.webp.json",
+            "images/screen-0@0.5x.png.json",
+            "images/screen-0.webp.json",
+            "images/screen-0.png.json"
+          ],
+          "data": {
+            "tags": {
+              "m": true,
+              "tps": true
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

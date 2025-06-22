@@ -1,0 +1,22 @@
+{
+  "name": "shootergame",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "assets": "assetpack",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@assetpack/core": "^1.4.0",
+    "typescript": "~5.8.3",
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@pixi/sound": "^6.0.1",
+    "gsap": "^3.13.0",
+    "pixi.js": "^8.9.2"
+  }
+}
